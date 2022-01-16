@@ -1,0 +1,21 @@
+{
+  "train": "data_set/train",
+  "val": "data_set/val",
+  "name": [
+    "O",
+    "R"
+  ],
+  "height": 224,
+  "width": 224,
+  "training": {
+    "verbose": 1,
+    "shuffle": "False",
+    "validation_freq": 1
+  },
+  "early_stop": {
+    "monitor": "val_accuracy",
+    "min_delta": 0.01,
+    "patience": 5,
+    "mode": "max"
+  }
+}
