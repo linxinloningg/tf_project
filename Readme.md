@@ -4,7 +4,7 @@
 
 仓库地址：https://github.com/linxinloningg/tf_project
 
-数据集地址：
+数据集地址：https://aistudio.baidu.com/aistudio/datasetdetail/125619
 
 ### 玩转TensorFlow：
 
